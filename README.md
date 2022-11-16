@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @KulaginArtur
-- 👀 I’m interested in Open Source and Embedded Linux
-- 🌱 I’m currently learning Open Source
+- 👀 I’m interested in Open Source
 
 <!---
 KulaginArtur/KulaginArtur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
